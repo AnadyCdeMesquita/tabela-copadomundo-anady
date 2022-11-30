@@ -1,0 +1,94 @@
+*{
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+table{
+ width:100%;
+ height:100vh;
+ background-color:#FF00FF ;
+
+
+}
+
+table td{
+
+border: 1px solid black;
+
+}
+
+.bandeira{
+width:80px;
+height: 50px;
+position: relative;
+
+
+}
+
+img{
+width:100%;
+
+
+}
+
+.td1{
+position: absolute;
+left: 420px;
+
+
+}
+
+.td2{
+    position: absolute;
+    left: 22px;
+    
+    
+    }
+
+h4{
+z-index:1;
+position: absolute;
+top:0;
+color:FFF5EE;
+right:-20%;
+margin:0;
+line-height: 50px;
+-webkit-text-stroke: 1px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.selecoes{
+position: absolute;
+left:475px;
+padding:3px;
+
+}
+
+.selecoes1{
+position: absolute;
+left:80px;
+padding:3px;
+}
+
+.grupo1{
+position: absolute;
+left: 200px;
+font-size: 60px;
+color:#DDA0DD;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.grupo2{
+position: absolute;
+left: 300px;
+font-size: 60px;
+font-size: 60px;
+color:#DDA0DD;
+font-family: Arial, Helvetica, sans-serif;
+    
+}
+    
+
